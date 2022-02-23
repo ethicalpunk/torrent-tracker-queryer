@@ -2,7 +2,7 @@
 A script that iterates through a .txt ip list, and checks for Torrent activity through Torrent trackers.
 <br />
 <br />
-This script was originally made to keep bad IP's from connecting to a server. Hence the reason why the script looks so broken up and messy as it was taken in chunks and put back together.
+This script was originally made to keep bad IP's from connecting to a server. Hence the reason why the script looks so broken up and messy, as it was taken in chunks and put back together.
 
 Features
 ============
